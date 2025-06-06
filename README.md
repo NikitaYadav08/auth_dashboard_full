@@ -49,9 +49,4 @@ A full-stack web application featuring a multi-step onboarding wizard and user d
 
 ### Backend Setup
 
-1. Clone the repo:
 
-```bash
-git clone https://github.com/yourusername/onboarding-dashboard.git
-cd onboarding-dashboard/backend
-# auth_dashboard_full
